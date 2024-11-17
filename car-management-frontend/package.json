@@ -2,7 +2,7 @@
   "name": "car-management-frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8080",
+  "proxy": "https://carexpo-4.onrender.com",
   "dependencies": {
     "axios": "^0.27.2",
     "react": "^18.0.0",
