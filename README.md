@@ -1,5 +1,6 @@
 # Car Management Application
-
+# Backend hosted on Render- https://carexpo-4.onrender.com
+# Database- PostGreSql - postgresql://pranshu:HjFgnmclJDYszfEAIJlqgmjxiDsLN3LJ@dpg-cst41td2ng1s73ar9mpg-a.oregon-postgres.render.com/car_management_a3jb
 This application is a full-stack solution for managing cars. It includes backend services for user authentication, car creation, viewing, editing, and deleting cars, along with frontend components for interacting with these services.
 
 ## Features
