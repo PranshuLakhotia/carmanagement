@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:8080/api'; // Base URL for the backend API
+const BASE_URL = 'https://carexpo-4.onrender.com/api'; // Base URL without port if it works via HTTPS
+; // Base URL for the backend API
 
 // User APIs
 export const registerUser = async (userData) => {
