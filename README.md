@@ -3,6 +3,18 @@
 ## Backend hosted on Render- https://carexpo-4.onrender.com
 ## Database
  PostGreSql - postgresql://pranshu:HjFgnmclJDYszfEAIJlqgmjxiDsLN3LJ@dpg-cst41td2ng1s73ar9mpg-a.oregon-postgres.render.com/car_management_a3jb
+
+ ## To test (it may take upto 50s for responses)
+1. Signup
+2. Login
+3. Add car 
+ - Name: Vitara
+ - Description: Maruti Suzuki car
+ - Tags: suv, black
+4. Click on Your Cars to view the entered details
+5. Search by tags/ name
+
+   
  
 This application is a full-stack solution for managing cars. It includes backend services for user authentication, car creation, viewing, editing, and deleting cars, along with frontend components for interacting with these services.
 
